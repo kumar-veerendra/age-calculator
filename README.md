@@ -1,6 +1,6 @@
 # 🧮 Age Calculator
 
-This is a simple and interactive **Age Calculator** built using **HTML, CSS, and JavaScript**. Enter your date of birth, and it instantly calculates your age in **years**, **months**, and **days**.
+This is a simple and interactive **Age Calculator** built using **HTML, CSS, and JavaScript**. Enter your date of birth, and it instantly calculates your age in **years**.
 
 ## 🚀 Live Demo
 
@@ -23,8 +23,6 @@ This is a simple and interactive **Age Calculator** built using **HTML, CSS, and
 - Clean and responsive UI
 - Calculates age in:
   - Years
-  - Months
-  - Days
 - Instant calculation without page reload
 
 ## 🧾 How It Works
